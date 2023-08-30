@@ -1,21 +1,10 @@
-Hi 👋, I'm Abhey Mishra
-🎓 I am a Front End Web Developer (specializing in React Applications). I am also pursuing my Bachelor of Technology in computer science and engineering.
+Hello there! My name is Abhey Mishra and I'm a Front End Web Developer who specializes in React Applications. Alongside my work, I'm currently pursuing my Bachelor of Technology in Computer Science and Engineering. 
 
-- 🔭 I’m currently working on full stack developer (frontend and backend )
-- 💬 Ask me about Data structures, algorithms.
-- 📫 How to reach me ab852759@gmail.com
-- 😄 Pronouns He/Him/His
+Here are a few things about me: 
+- I'm currently working on becoming a full stack developer, working on both the frontend and backend of applications. 
+- If you have any questions about Data Structures or Algorithms, feel free to ask me!
+- You can reach me at ab852759@gmail.com. 
+- My pronouns are He/Him/His. 
 
-🛠️ Skills
-Languages
-c,c++, python, javascript
-
-front end development
-HTML5, CSS3 ,javascript , reactjs ,node js 
-
-
-
---> Connect with me 
-https://www.linkedin.com/in/abhey-mishra-841023230/
 
 
