@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋, I'm Abhey Mishra
+🎓 I am a Front End Web Developer (specializing in React Applications). I am also pursuing my Bachelor of Technology in computer science and engineering.
 
-<!--
-**abhey-afk/abhey-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on full stack developer (frontend and backend )
+- 💬 Ask me about Data structures, algorithms.
+- 📫 How to reach me ab852759@gmail.com
+- 😄 Pronouns He/Him/His
 
-Here are some ideas to get you started:
+🛠️ Skills
+Languages
+c,c++, python, javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+front end development
+HTML5, CSS3 ,javascript , reactjs ,node js 
+
+
+
+--> Connect with me 
+https://www.linkedin.com/in/abhey-mishra-841023230/
+
+
