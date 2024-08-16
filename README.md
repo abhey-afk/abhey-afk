@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhey Mishra</h1>
-<h3 align="center">A passionate Full Stack Web Developer.</h3> 
+<h3 align="center">A passionate Frontend Web Developer.</h3> 
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
