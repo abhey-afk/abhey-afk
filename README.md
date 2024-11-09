@@ -28,4 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhey-afk&" alt="abhey-afk" /></p>
 
+[![An image of @abheyafk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abheyafk)](https://holopin.io/@abheyafk)
+
 
