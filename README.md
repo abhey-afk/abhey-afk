@@ -112,14 +112,6 @@ const abhey = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhey-afk/abhey-afk/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
